@@ -32,7 +32,7 @@ Werkstuk / Opdracht:
 
 ### Puntenverdeling
 
-* Examen: 60%
+* Examen (Theorie + Praktijk): 60%
 * Opdracht: 40%
 
 ___
